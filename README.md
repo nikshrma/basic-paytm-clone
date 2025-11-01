@@ -1,10 +1,11 @@
-## Built a basic version of PayTM
+## Built a basic version of Paytm
 
 ### Technologies & Libraries Used 💡
 - **Express** – Backend framework
 - **React** – Frontend components
 - **TailwindCSS** – Styling and responsive design
 - **MongoDB** & **Mongoose** – Database and ODM
+- **Mongoose Transactions** – Ensured atomicity and data consistency during money transfers
 - **JWT** – Authentication
 - **react-router-dom** – Client-side routing & protected routes
 - **CORS** – Cross-origin request handling
