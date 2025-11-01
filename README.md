@@ -48,3 +48,9 @@ cd frontend
 npm run dev
 ```
 7. Go to http://localhost:your-port/signin to get started
+
+## Note 📝
+
+**This project does not connect to any real banking APIs.**
+The “bank balance” you see in the app is purely simulated — it’s just a random number assigned to each user at signup using Math.random().
+The project was built to demonstrate authentication, protected routes, and basic transaction logic — not to process real payments.
