@@ -1,6 +1,6 @@
 ## Built a basic version of PayTM
 
-### Technologies & Libraries Used
+### Technologies & Libraries Used 💡
 - **Express** – Backend framework
 - **React** – Frontend components
 - **TailwindCSS** – Styling and responsive design
@@ -46,4 +46,4 @@ node index.js
 cd frontend
 npm run dev
 ```
-7. Go to http://localhost:<your-port>/signin to get started
+7. Go to http://localhost:your-port/signin to get started
